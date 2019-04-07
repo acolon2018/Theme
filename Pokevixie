@@ -46,6 +46,7 @@
     background: transparent
 }
 
+#app-mount .container-1UB9sr {background: transparent;border: none}
 #app-mount .app-2rEoOp, #app-mount .titleBar-AC4pGV {background: rgba(0,0,0, var(--brightness))}    /* Brightness adjust */
 
 #app-mount .typeWindows-1za-n7 {padding-top:4px;margin-top: 0}
@@ -101,6 +102,14 @@ html {backface-visibility:hidden}
 #app-mount .nameHoveredText-1uO31y {
     color: #fff1c6;text-shadow: 3px 3px 3px #000
 }
+
+#app-mount .wrapper-2NJDcI {background: rgba(0, 0, 0, .3);color: #a6e3e6} /* Changes the color of user limit */
+
+    /* Channel Icons */
+#app-mount .colorConnectedText-1c_uzY, .colorConnectedVoice-3kyvUN, .colorDefaultText-oas-QM, .colorDefaultVoice-3wYlhb, {color: #fff}
+#app-mount .colorHoveredText-OZnAgu, .colorHoveredVoice-1kucsK, .colorLockedText-1VRkPt, .colorLockedVoice-2UlBjl, {color: #fff1c6}
+#app-mount .colorSelectedText-1y4Wvs, .colorSelectedVoice-Xcb_9R, {color: #fff}
+#app-mount .colorUnreadText-2t7XRb, .colorUnreadVoice-137o4S {color: #fff1c6}
 
     /* Chat */
 #app-mount .title-3qD0b-, 
@@ -191,22 +200,6 @@ html {backface-visibility:hidden}
 #app-mount .userPopout-3XzG_A .headerNormal-T_seeN,
 #app-mount .userPopout-3XzG_A .body-3iLsc4, 
 #app-mount .userPopout-3XzG_A .footer-1fjuF6 {background:rgba(0, 0, 0, .8)}
-
-    /* Channel Icons */
-#app-mount .colorConnectedText-1c_uzY,
-.colorConnectedVoice-3kyvUN,
-.colorDefaultText-oas-QM,
-.colorDefaultVoice-3wYlhb,
-.colorHoveredText-OZnAgu,
-.colorHoveredVoice-1kucsK,
-.colorLockedText-1VRkPt,
-.colorLockedVoice-2UlBjl,
-.colorSelectedText-1y4Wvs,
-.colorSelectedVoice-Xcb_9R,
-.colorUnreadText-2t7XRb,
-.colorUnreadVoice-137o4S
-{
-color: #a6e3e6}
 
     /* Home List */
 #app-mount .name-2WpE7M
