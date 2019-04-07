@@ -77,9 +77,14 @@ html {backface-visibility:hidden}
 #app-mount .homeIcon-tEMBK1 g {display:none}
 #app-mount svg.homeIcon-tEMBK1 {background:url(https://i.imgur.com/9Vrr23q.png) no-repeat center/cover}
 
-/* Friends Online Text */
+/* Friends Online */
 
 #app-mount .friendsOnline-2JkivW {color: #fff}
+
+    /* Home List */
+#app-mount .name-2WpE7M {
+     color: #fff;text-shadow: 3px 3px 3px #000
+}
 
     /* Channels */
 #app-mount .channels-Ie2l6A .nameMutedText-3Vj4bM, 
@@ -106,10 +111,10 @@ html {backface-visibility:hidden}
 #app-mount .wrapper-2NJDcI {background: rgba(0, 0, 0, .3);color: #a6e3e6} /* Changes the color of user limit */
 
     /* Channel Icons */
-#app-mount .colorConnectedText-1c_uzY, .colorConnectedVoice-3kyvUN, .colorDefaultText-oas-QM, .colorDefaultVoice-3wYlhb, {color: #fff}
-#app-mount .colorHoveredText-OZnAgu, .colorHoveredVoice-1kucsK, .colorLockedText-1VRkPt, .colorLockedVoice-2UlBjl, {color: #fff1c6}
-#app-mount .colorSelectedText-1y4Wvs, .colorSelectedVoice-Xcb_9R, {color: #fff}
-#app-mount .colorUnreadText-2t7XRb, .colorUnreadVoice-137o4S {color: #fff1c6}
+#app-mount .colorConnectedText-1c_uzY, .colorConnectedVoice-3kyvUN, .colorDefaultText-oas-QM, .colorDefaultVoice-3wYlhb, .colorLockedText-1VRkPt, .colorLockedVoice-2UlBjl, .colorSelectedText-1y4Wvs, .colorSelectedVoice-Xcb_9R {
+   color: fff}
+#app-mount .colorHoveredText-OZnAgu, .colorHoveredVoice-1kucsK, .colorUnreadText-2t7XRb, .colorUnreadVoice-137o4S {
+   color: #fff1c6}
 
     /* Chat */
 #app-mount .title-3qD0b-, 
@@ -200,8 +205,3 @@ html {backface-visibility:hidden}
 #app-mount .userPopout-3XzG_A .headerNormal-T_seeN,
 #app-mount .userPopout-3XzG_A .body-3iLsc4, 
 #app-mount .userPopout-3XzG_A .footer-1fjuF6 {background:rgba(0, 0, 0, .8)}
-
-    /* Home List */
-#app-mount .name-2WpE7M
-{
-color: fff;text-shadow: 3px 3px 3px #000}
