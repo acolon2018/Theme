@@ -78,7 +78,7 @@ html {backface-visibility:hidden}
 
     /* Guilds */
 #app-mount .homeIcon-tEMBK1 g {display:none}
-#app-mount svg.homeIcon-tEMBK1 {background:url(https://i.imgur.com/9Vrr23q.png) no-repeat center/cover}
+#app-mount svg.homeIcon-tEMBK1 {background:url(https://i.imgur.com/EMniaUJ.png) no-repeat center/cover}
 
 /* Friends Online */
 
@@ -208,3 +208,4 @@ html {backface-visibility:hidden}
 #app-mount .userPopout-3XzG_A .headerNormal-T_seeN,
 #app-mount .userPopout-3XzG_A .body-3iLsc4, 
 #app-mount .userPopout-3XzG_A .footer-1fjuF6 {background:rgba(0, 0, 0, .8)}
+
