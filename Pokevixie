@@ -17,6 +17,9 @@
     font-size: 0.9375rem;
     text-shadow: 3px 3px 3px #000
 }
+#app-mount .theme-dark .username-_4ZSMR {
+    color: #fff} /* Changes color of usernames */
+
 
 #app-mount ::placeholder {color: rgba(255, 255, 255, 0.8)}
 
