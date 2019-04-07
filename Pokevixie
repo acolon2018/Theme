@@ -149,7 +149,7 @@ html {backface-visibility:hidden}
 #app-mount .chat-3bRxxu .markup-2BOw-j code.inline {background: rgba(0, 0, 0, .4)}    /* Code Blocks */
 
 #app-mount .chat-3bRxxu .reaction-1ELvT8.reactionMe-23mbRf {
-    background: rgba(117, 30, 78, 0.7);border:3px solid #000
+    background: rgba(0, 0, 0, 0.3)
 }
 
 #app-mount .membersGroup-v9BXpm {color: #fff;text-align: center}
